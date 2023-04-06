@@ -15,7 +15,7 @@ Mario Senese (he/they) is currently a web developer italian. He comes from a tow
 
 😄 Pronouns: He/Him/They/Them
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarioSenese&bg_color=0d1117&color=ffffff&line=1f63ea&point=1f6fea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarioSenese&bg_color=0d1117&color=ffffff&line=1f63ea&point=1f6fea&area=true&hide_border=true)](https://github.com/MarioSenese?tab=repositories)
 
 [linkedin]: https://www.linkedin.com/in/mario-senese/ "LinkedIn"
 [instagram]: https://www.instagram.com/senese.mario/ "Instagram"
