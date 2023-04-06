@@ -2,7 +2,7 @@
 <h3 align="left">I am currently a Web Developer and I am Italian</h3>
 
 <p align="center">
-  <img alt="Mario Senese Logo" src="Logo-2.png" width="224" />
+  <img alt="Mario Senese Logo" src="Logo-3.png" width="224" />
 </p>
 
 <a href="#suhailkakar-title">
