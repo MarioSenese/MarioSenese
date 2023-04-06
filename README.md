@@ -1,12 +1,12 @@
-<h1 align="left" id="suhailkakar-title">:wave: Hello, I'm Mario Senese.</h1>
+<h1 align="left" id="ms-title">:wave: Hello, I'm Mario Senese.</h1>
 <h3 align="left">I am currently a Web Developer and I am Italian</h3>
 
 <p align="center">
   <img alt="Mario Senese Logo" src="Logo-3.png" width="224" />
 </p>
 
-<a href="#suhailkakar-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioSenese&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Mario Senese" align="right" />
+<a href="#ms-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioSenese&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true" alt="Mario's GitHub Stat" align="right" />
 </a>
 
 - :ear_with_hearing_aid: &nbsp;I'm Deaf but I Hear and I Speak
@@ -20,6 +20,8 @@ Mario Senese (he/they) is currently a web developer italian. He comes from a tow
 😄 Pronouns: He/Him/They/Them
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarioSenese&bg_color=0d1117&color=ffffff&line=1f63ea&point=1f6fea&area=true&hide_border=true)](https://github.com/MarioSenese?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosenese&layout=compact&theme=github_dark&hide_border=true&border_radius=12&custom_title=Mario's&nbsp;top&nbsp;languages)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/mario-senese/ "LinkedIn"
 [instagram]: https://www.instagram.com/senese.mario/ "Instagram"
