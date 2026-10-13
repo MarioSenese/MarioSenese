@@ -27,8 +27,8 @@ Web developer based in Italy with 10+ years of experience. I work mainly with **
 |---|---|---|
 | **ShopHours** | Configuratore degli orari di apertura di un negozio, con validazione in tempo reale, stato aperto/chiuso ed esportazione in JSON e Schema.org. JavaScript puro, senza dipendenze, conforme WCAG AA. | [Demo](https://mariosenese.github.io/ShopHours/) · [Codice](https://github.com/MarioSenese/ShopHours) |
 | **Ear Diagnostic** | App Android per l'autodiagnosi dell'udito tramite esame audiometrico tonale. Oltre 5.000 installazioni. *Nuova versione in sviluppo: interfaccia rinnovata e nuove funzionalità.* | [Google Play](https://play.google.com/store/apps/details?id=it.android.eardiagnostic) |
-| **Modulo Drupal per CV** | Modulo contrib per gestire e pubblicare curriculum su Drupal. *In sviluppo.* | — |
 | **Portfolio personale** | Sito portfolio in React e TypeScript. *In sviluppo.* | — |
+## | **Modulo Drupal per CV** | Modulo contrib per gestire e pubblicare curriculum su Drupal. *In sviluppo.* | — |
 
 ## Strumenti
 
