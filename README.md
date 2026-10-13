@@ -40,5 +40,4 @@ Web developer based in Italy with 10+ years of experience. I work mainly with **
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mario-senese)
 - 🌐 [Sito personale](https://mariosenese.github.io)
-- 💧 [Profilo drupal.org](https://www.drupal.org/u/INSERISCI-USERNAME)
 - ✉️ senese.mario90@gmail.com
